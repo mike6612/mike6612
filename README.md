@@ -3,6 +3,8 @@
 
 - 🏫 I'm currently pursuing a Software Engineering Bachelor's Degree at the University of Illinois Chicago.
 
+  ![Alt text](https://i.ytimg.com/vi/UPDi23OVxlw/maxresdefault.jpg)
+
 # 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
