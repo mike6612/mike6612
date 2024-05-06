@@ -1,9 +1,6 @@
 ### Hi, I'm Michael ! 
 
 
-Here are some ideas to get you started:
-
-
 - 🏫 I'm currently pursuing a Software Engineering Bachelor's Degree at the University of Illinois Chicago.
 
 # 💻 Tech Stack
