@@ -1,7 +1,7 @@
 ### Hi, I'm Michael ! 
 
 
-- 🏫 I'm currently pursuing a Software Engineering Bachelor's Degree at the University of Illinois Chicago.
+- 🏫 I'm currently pursuing a Bachelor's degree in Software Engineering at the University of Illinois Chicago.
 
   ![Alt text](https://i.ytimg.com/vi/UPDi23OVxlw/maxresdefault.jpg)
 
