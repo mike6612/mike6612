@@ -6,7 +6,7 @@
 
 My passion for creating software solutions began when I had the privilege of attending Harvard Summer School through Summer of a Lifetime, where I was a part of a pre-college Harvard curriculum focused on computer science. It was an ineffable experience-I interacted with classmates and was captivated by the idea of building code for impactful initiatives.
 
-This curiosity has followed me through my pursuit of higher education at the University of Illinois Chicago, where I have become comfortable working with several programming languages and continue to build a strong foundation in software principles and technical skills. Currently, I am working with React and Three.js to develop an innovative platform that educates individuals about the exoplanetary systems of our universe.
+This curiosity has followed me through my pursuit of higher education at the University of Illinois Chicago, where I have become comfortable working with several programming languages and continue to build a strong foundation in software principles and technical skills. Currently, I am working with React and Three.js to develop an innovative platform that educates individuals about the exoplanetary systems of our universe :milky_way:.
 
 
 
