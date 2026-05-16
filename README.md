@@ -1,8 +1,5 @@
 ### Hi, I'm Michael ! 
 
-🏫 I'm currently pursuing a Bachelor's degree in Software Engineering at the University of Illinois Chicago.
-
-  ![Alt text](https://i.ytimg.com/vi/UPDi23OVxlw/maxresdefault.jpg)
 
 My passion for creating software solutions began when I had the privilege of attending Harvard Summer School through Summer of a Lifetime, where I was a part of a pre-college Harvard curriculum focused on computer science. It was an ineffable experience. Interacting with classmates sharing similar interests sparked my ambition and enthusiasm for developing code. This soldified my desire to pursue a career in software development. 
 
